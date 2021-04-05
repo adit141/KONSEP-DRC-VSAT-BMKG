@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T06:36:07.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8pmj5AbbzFa1LMq1PoIH" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T06:46:01.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="WA_spdu2uDNwVXm9jy2f" version="14.5.7" type="github">
   <diagram id="yCUWyppLQpPTohpj3Qdh" name="Page-1">
     <mxGraphModel dx="3031" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Th65c8opwPP33r4rbUSn-82" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.idirect.net/wp-content/uploads/2018/11/Series-15100-270-235.jpg;" vertex="1" parent="1">
+          <mxGeometry x="954.74" y="467" width="302.17" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="Th65c8opwPP33r4rbUSn-81" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.idirect.net/wp-content/uploads/2018/11/Series-15100-270-235.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="467" width="302.17" height="263" as="geometry" />
+        </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/technology-1-1/512/technology-machine-electronic-device-17-128.png" vertex="1" parent="1">
           <mxGeometry x="606" y="80" width="128" height="128" as="geometry" />
         </mxCell>
@@ -16,45 +22,42 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronics-17/24/electronics-11-128.png" vertex="1" parent="1">
           <mxGeometry x="-120" y="380" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.idirectgov.com/Assets/iDirectGov/Images/Product/8-series/Detail/28530_iDirect_Thumb_560x400_15100.png;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="460" width="378.45" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.barnonetech.com/wp-content/uploads/2018/01/Dell-EMC-Gen14-R940-Front-600x275.png;" vertex="1" parent="1">
           <mxGeometry x="-300" y="520" width="218.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.barnonetech.com/wp-content/uploads/2018/01/Dell-EMC-Gen14-R940-Front-600x275.png;" vertex="1" parent="1">
           <mxGeometry x="-300" y="620" width="218.49" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-10" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#3333FF;" edge="1" parent="1">
+        <mxCell id="Th65c8opwPP33r4rbUSn-10" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="550" as="sourcePoint" />
             <mxPoint x="-80" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-11" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#3333FF;" edge="1" parent="1">
+        <mxCell id="Th65c8opwPP33r4rbUSn-11" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="650" as="sourcePoint" />
             <mxPoint x="-80" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-12" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.317;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-7">
+        <mxCell id="Th65c8opwPP33r4rbUSn-12" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.317;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="540" as="sourcePoint" />
+            <mxPoint x="69.9686499999998" y="499.96000000000004" as="sourcePoint" />
             <mxPoint x="-36" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="70" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-13" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.476;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-7">
+        <mxCell id="Th65c8opwPP33r4rbUSn-13" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.476;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="540" as="sourcePoint" />
+            <mxPoint x="130.14219999999978" y="499.96000000000004" as="sourcePoint" />
             <mxPoint x="130" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-14" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.555;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-7" target="Th65c8opwPP33r4rbUSn-5">
+        <mxCell id="Th65c8opwPP33r4rbUSn-14" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.555;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140.14219999999978" y="509.96000000000004" as="sourcePoint" />
+            <mxPoint x="160.0397499999999" y="499.96000000000004" as="sourcePoint" />
             <mxPoint x="140" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="460" />
@@ -65,10 +68,10 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-15" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="85" y="800" width="89" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-16" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.8555;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-15" target="Th65c8opwPP33r4rbUSn-7">
+        <mxCell id="Th65c8opwPP33r4rbUSn-16" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.8555;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="790" as="sourcePoint" />
-            <mxPoint x="90" y="740" as="targetPoint" />
+            <mxPoint x="130.14219999999978" y="690.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2012/04/12/10/22/router-29336__340.png;" vertex="1" parent="1">
@@ -86,22 +89,19 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronics-17/24/electronics-11-128.png;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="990" y="290" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.idirectgov.com/Assets/iDirectGov/Images/Product/8-series/Detail/28530_iDirect_Thumb_560x400_15100.png;" vertex="1" parent="1">
-          <mxGeometry x="920" y="465" width="378.45" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.barnonetech.com/wp-content/uploads/2018/01/Dell-EMC-Gen14-R940-Front-600x275.png;" vertex="1" parent="1">
           <mxGeometry x="1370" y="520" width="218.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.barnonetech.com/wp-content/uploads/2018/01/Dell-EMC-Gen14-R940-Front-600x275.png;" vertex="1" parent="1">
           <mxGeometry x="1370" y="620" width="218.49" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-27" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-25">
+        <mxCell id="Th65c8opwPP33r4rbUSn-27" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="545" as="sourcePoint" />
             <mxPoint x="890" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-28" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-26">
+        <mxCell id="Th65c8opwPP33r4rbUSn-28" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="655" as="sourcePoint" />
             <mxPoint x="1200" y="645" as="targetPoint" />
@@ -110,10 +110,10 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-32" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;rotation=-45;" vertex="1" parent="1">
           <mxGeometry x="1055" y="805" width="89" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-33" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.8555;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Th65c8opwPP33r4rbUSn-32" target="Th65c8opwPP33r4rbUSn-24" parent="1">
+        <mxCell id="Th65c8opwPP33r4rbUSn-33" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.8555;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.476;entryY=0.852;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" source="Th65c8opwPP33r4rbUSn-32" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="795" as="sourcePoint" />
-            <mxPoint x="1060" y="745" as="targetPoint" />
+            <mxPoint x="1100.1422000000002" y="695.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Th65c8opwPP33r4rbUSn-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.pixabay.com/photo/2012/04/12/10/22/router-29336__340.png;" vertex="1" parent="1">
@@ -131,13 +131,13 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronics-17/24/electronics-11-128.png;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1110" y="290" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-38" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.317;exitY=0.13;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-24" target="Th65c8opwPP33r4rbUSn-23">
+        <mxCell id="Th65c8opwPP33r4rbUSn-38" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.317;exitY=0.13;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="520" as="sourcePoint" />
+            <mxPoint x="1039.9686499999998" y="500.10000000000014" as="sourcePoint" />
             <mxPoint x="930" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-37">
+        <mxCell id="Th65c8opwPP33r4rbUSn-39" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;strokeWidth=4;" edge="1" parent="1" target="Th65c8opwPP33r4rbUSn-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="500" as="sourcePoint" />
             <mxPoint x="1160" y="400" as="targetPoint" />
@@ -161,7 +161,7 @@
         <mxCell id="Th65c8opwPP33r4rbUSn-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/1875758-200.png;" vertex="1" parent="1">
           <mxGeometry x="-190" y="769" width="151" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-48" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#006633;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-47" target="Th65c8opwPP33r4rbUSn-18">
+        <mxCell id="Th65c8opwPP33r4rbUSn-48" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-47" target="Th65c8opwPP33r4rbUSn-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="1020" as="sourcePoint" />
             <mxPoint x="670" y="970" as="targetPoint" />
@@ -192,7 +192,7 @@
             <mxPoint x="1370" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Th65c8opwPP33r4rbUSn-56" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#006633;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-49">
+        <mxCell id="Th65c8opwPP33r4rbUSn-56" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="Th65c8opwPP33r4rbUSn-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="810" as="sourcePoint" />
             <mxPoint x="1409" y="890" as="targetPoint" />
